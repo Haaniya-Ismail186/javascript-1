@@ -1,11 +1,3 @@
-alert("Welcome to our website!");
-alert("Error! Please enter a valid password.");
-alert("Welcome to JS Land...\nHappy Coding!");
-alert("Welcome to JS Land...");
-alert("Happy Coding!");
-alert("Hello... I can run JS through my web browser's console");
-
-
 // 1. Username
 var userName = "Haaniya Ismail";
 console.log(userName);
@@ -52,5 +44,3 @@ alert("I am trying to learn from the Book " + book);
 
 // 9. Final message
 document.write("Yah! I can write HTML content through JavaScript");
-
-
